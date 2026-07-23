@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imperiogoldjoias.com.br/sitemap.xml
